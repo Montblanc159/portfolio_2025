@@ -8,7 +8,7 @@ template = "index.html"
 
 # Guillaume Zaugg - Programmation, design et film
 
-Création de sites webs, de contenus vidéos et de contenus graphiques. Futur brasseur.
+Création de sites web, de contenus vidéos et de contenus graphiques. Futur brasseur.
 </header>
 
 
