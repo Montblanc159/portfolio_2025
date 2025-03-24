@@ -21,15 +21,17 @@ Plus de 25 brassins avec une cuve de 30L.
 
 Formation en cours...
 
+#### Portfolio
+
 [https://www.littlebock.fr/brasseurs/montblanc](https://www.littlebock.fr/brasseurs/montblanc)
 
 ---
 ### Design
 
-#### Compétences :
+#### Compétences
 - 2016 : Licence de designer graphique à Lisaa
 
-#### Expériences :
+#### Expériences
 - 2016-2018 : Médiafaune
 
 > Conception de contenu de communications pour les clients (films, publicités, logos, animations) en anglais et en français.
@@ -40,7 +42,7 @@ Formation en cours...
 > Conceptions de logos, chartes graphiques et site web pour des entreprises locales
 > Créations autour de la technique de la linogravure
 
-#### Boite à outils :
+#### Boite à outils
 
 - Adobe (Illustrator, Indesign, Photoshop)
 - Affinity (Designer, Photo, Publisher)
@@ -49,15 +51,18 @@ Formation en cours...
 - Linogravure
 - Matériel photo (DSLR Nikon D610, panneaux leds)
 
+
+#### Portfolio
 [https://www.artstation.com/montblanc159](https://www.artstation.com/montblanc159)
+[https://sketchfab.com/guillaumezaugg](https://sketchfab.com/guillaumezaugg)
 
 ---
 ### Film
 
-#### Compétences :
+#### Compétences
 - 2018 : Brevet théorique de pilote ULM
 
-#### Expériences :
+#### Expériences
 - 2016-2018 : Médiafaune
 
 > Contact direct avec les clients à l'international (anglais et français).
@@ -70,7 +75,7 @@ Formation en cours...
 
 > Tournage et montage de films pour des entreprises locales
 
-### Boite à outils :
+#### Boite à outils
 
 - Adobe (After Effect, Premiere, Character Animator, Media Encoder)
 - Da Vinci Resolve
@@ -78,15 +83,16 @@ Formation en cours...
 - 3ds Max
 - Matériel vidéo (DSLR Nikon D610, panneaux leds, drône DJI, stabilisateur DJI Ronin)
 
+#### Portfolio
 [https://vimeo.com/guillaumezaugg](https://vimeo.com/guillaumezaugg)
 
 ---
 ### Programmation
 
-#### Compétences :
+#### Compétences
 - 2018 : Formation The Hacking Project
 
-#### Expériences :
+#### Expériences
 - 2020-2025 : Steeple
 
 > Développeur back-end Ruby et Node JS.
@@ -99,13 +105,14 @@ Formation en cours...
 
 > Créations de sites web pour des entreprises locales
 
-#### Boite à outils :
+#### Boite à outils
 
 - Ruby, Ruby on Rails
 - Rust, Bevy
 - NodeJS
 - Docker
 
+#### Portfolio
 [https://github.com/Montblanc159](https://github.com/Montblanc159)
 
 </main>
