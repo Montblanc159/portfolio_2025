@@ -115,7 +115,7 @@ Formation en cours...
 ---
 ## Contact
 
-contact@guillaume.zaugg.com
+contact@guillaume-zaugg.fr
 
 +33 (0)7 82 64 20 33
 </footer>
