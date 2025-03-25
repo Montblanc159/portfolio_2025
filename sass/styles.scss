@@ -1,12 +1,65 @@
 $main-font-color: white;
 $background-color: rgb(48, 48, 48);
 
+// @font-face {
+//     font-family: ImportedItalic;
+//     src: url(Cabin-Italic-VariableFont_wght.ttf);
+// }
+
+@font-face {
+    font-family: Imported;
+    src: url(Cabin-VariableFont_wght.ttf);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 100%;
+    }
+}
+
 * {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Imported, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: $main-font-color;
     background-color: $background-color;
+    will-change: opacity;
+    animation: 0.5s linear fadeIn;
 }
 
 body {
     margin: 25px 25vw;
+}
+
+img {
+    border-radius: 25px;
+    width: 100%;
+}
+
+hr {
+    border-radius: 5px;
+    border: solid 2px $main-font-color;
+}
+
+a {
+    display: inline-block;
+    background-color: $main-font-color;
+    color: $background-color;
+    padding: 5px 12px 7px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 0 5px;
+    border-radius: 25px;
+    transition: all 0.12s cubic-bezier(0.215, 0.610, 0.355, 1);
+
+    &:hover {
+        background-color: $background-color;
+        color: $main-font-color;
+        box-shadow: 0px 0px 0px 1px $main-font-color inset;
+    }
 }

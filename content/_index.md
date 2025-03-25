@@ -17,16 +17,22 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ---
 ### Brasserie
 
-Plus de 25 brassins avec une cuve de 30L.
+![Beer banner](./banner-beer.webp)
 
-Formation en cours...
+#### Compétences
+- 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
 
-#### Portfolio
+- Formation IFBM à venir...
 
-[https://www.littlebock.fr/brasseurs/montblanc](https://www.littlebock.fr/brasseurs/montblanc)
+#### Expériences
+Plus de 25 brassins avec une cuve automatique de 30L.
+
+[Mes recettes](https://www.littlebock.fr/brasseurs/montblanc)
 
 ---
 ### Design
+
+![Design banner](./banner-graphic.webp)
 
 #### Compétences
 - 2016 : Licence de designer graphique à Lisaa
@@ -51,16 +57,15 @@ Formation en cours...
 - Linogravure
 - Matériel photo (DSLR Nikon D610, panneaux leds)
 
-
-#### Portfolio
-[https://www.artstation.com/montblanc159](https://www.artstation.com/montblanc159)
-[https://sketchfab.com/guillaumezaugg](https://sketchfab.com/guillaumezaugg)
+[Mon portfolio graphique](https://www.artstation.com/montblanc159)
 
 ---
 ### Film
 
+![Film banner](./banner-film.webp)
+
 #### Compétences
-- 2018 : Brevet théorique de pilote ULM
+- 2018 : Brevet théorique de pilote ULM - pilotage de drône
 
 #### Expériences
 - 2016-2018 : Médiafaune
@@ -68,6 +73,7 @@ Formation en cours...
 > Contact direct avec les clients à l'international (anglais et français).
 > Organisation et réalisation de tournages.
 > Pilotage/organisation de tournage en drone.
+> Montage.
 > Retransmission live et 360° d'évènements.
 > Conception de jeux vidéos en réalité virtuelle.
 
@@ -83,11 +89,12 @@ Formation en cours...
 - 3ds Max
 - Matériel vidéo (DSLR Nikon D610, panneaux leds, drône DJI, stabilisateur DJI Ronin)
 
-#### Portfolio
-[https://vimeo.com/guillaumezaugg](https://vimeo.com/guillaumezaugg)
+[Mon portfolio vidéo](https://vimeo.com/guillaumezaugg)
 
 ---
 ### Programmation
+
+![Dev banner](./banner-code.webp)
 
 #### Compétences
 - 2018 : Formation The Hacking Project
@@ -109,11 +116,19 @@ Formation en cours...
 
 - Ruby, Ruby on Rails
 - Rust, Bevy
+- PostgreSQL, SQL
 - NodeJS
 - Docker
 
 #### Portfolio
-[https://github.com/Montblanc159](https://github.com/Montblanc159)
+[Mon portfolio programmation](https://github.com/Montblanc159)
+
+---
+### Centres d'intérêts
+- Escalade sportive en intérieur et en extérieur, licencié au club de Guichen Escalade depuis 2 ans.
+- Pratique du trail, du yoga et de la natation chaque semaine depuis plus de 3 ans.
+- Pratique de la guitare depuis 18 ans.
+- Passionné de fermentations en tous genres : yaourt, levain, lacto-fermentations, etc.
 
 </main>
 
