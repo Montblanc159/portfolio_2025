@@ -123,8 +123,8 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 
 ---
 ## Centres d'intérêts
-- Escalade sportive en intérieur et en extérieur, licencié au club de Guichen Escalade depuis 2 ans.
-- Pratique du trail, du yoga et de la natation chaque semaine depuis plus de 3 ans.
+- Escalade sportive en intérieur et en extérieur, licencié dans un club depuis 2 ans.
+- Pratique hebdomadaire du trail, du yoga et de la natation depuis plus de 3 ans.
 - Pratique de la guitare depuis 18 ans.
 - Passionné de fermentations en tous genres : yaourt, levain, lacto-fermentations, etc.
 
