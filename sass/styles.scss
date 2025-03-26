@@ -3,12 +3,12 @@ $background-color: rgb(48, 48, 48);
 
 // @font-face {
 //     font-family: ImportedItalic;
-//     src: url(Cabin-Italic-VariableFont_wght.ttf);
+//     src: url(./Cabin-Italic.ttf);
 // }
 
 @font-face {
     font-family: Imported;
-    src: url(Cabin-VariableFont_wght.ttf);
+    src: url(./Cabin.ttf);
 }
 
 @keyframes fadeIn {
@@ -30,6 +30,7 @@ $background-color: rgb(48, 48, 48);
     background-color: $background-color;
     will-change: opacity;
     animation: 0.5s linear fadeIn;
+    font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
 }
 
 body {
@@ -44,6 +45,28 @@ img {
 hr {
     border-radius: 5px;
     border: solid 2px $main-font-color;
+}
+
+h1 {
+    font-size: 2.3rem;
+    font-variation-settings: "wght" 900;
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-variation-settings: "wght" 800;
+}
+
+h3 {
+    font-size: 1.4rem;
+    font-variation-settings: "wght" 600;
+}
+
+p,
+li,
+a {
+    font-size: 1.1rem;
+    font-variation-settings: "wght" 300;
 }
 
 a {

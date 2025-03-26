@@ -6,7 +6,7 @@ template = "index.html"
 
 ![Guillaume Zaugg](./logo.webp)
 
-# Guillaume Zaugg - Programmation, design et film
+# Guillaume Zaugg - Brassage, programmation, design et vidéo
 
 Création de sites web, de contenus vidéos et de contenus graphiques. Futur brasseur.
 </header>
@@ -15,29 +15,29 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 <main>
 
 ---
-### Brasserie
+## Brasserie
 
 ![Beer banner](./banner-beer.webp)
 
-#### Compétences
+### Compétences
 - 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
 
-- Formation IFBM à venir...
+- Formation IFBM à venir
 
-#### Expériences
+### Expériences
 Plus de 25 brassins avec une cuve automatique de 30L.
 
 [Mes recettes](https://www.littlebock.fr/brasseurs/montblanc)
 
 ---
-### Design
+## Design
 
 ![Design banner](./banner-graphic.webp)
 
-#### Compétences
+### Compétences
 - 2016 : Licence de designer graphique à Lisaa
 
-#### Expériences
+### Expériences
 - 2016-2018 : Médiafaune
 
 > Conception de contenu de communications pour les clients (films, publicités, logos, animations) en anglais et en français.
@@ -48,7 +48,7 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 > Conceptions de logos, chartes graphiques et site web pour des entreprises locales
 > Créations autour de la technique de la linogravure
 
-#### Boite à outils
+### Boite à outils
 
 - Adobe (Illustrator, Indesign, Photoshop)
 - Affinity (Designer, Photo, Publisher)
@@ -60,14 +60,14 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 [Mon portfolio graphique](https://www.artstation.com/montblanc159)
 
 ---
-### Film
+## Vidéo
 
 ![Film banner](./banner-film.webp)
 
-#### Compétences
+### Compétences
 - 2018 : Brevet théorique de pilote ULM - pilotage de drône
 
-#### Expériences
+### Expériences
 - 2016-2018 : Médiafaune
 
 > Contact direct avec les clients à l'international (anglais et français).
@@ -81,7 +81,7 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 
 > Tournage et montage de films pour des entreprises locales
 
-#### Boite à outils
+### Boite à outils
 
 - Adobe (After Effect, Premiere, Character Animator, Media Encoder)
 - Da Vinci Resolve
@@ -92,14 +92,14 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 [Mon portfolio vidéo](https://vimeo.com/guillaumezaugg)
 
 ---
-### Programmation
+## Programmation
 
 ![Dev banner](./banner-code.webp)
 
-#### Compétences
+### Compétences
 - 2018 : Formation The Hacking Project
 
-#### Expériences
+### Expériences
 - 2020-2025 : Steeple
 
 > Développeur back-end Ruby et Node JS.
@@ -112,7 +112,7 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 
 > Créations de sites web pour des entreprises locales
 
-#### Boite à outils
+### Boite à outils
 
 - Ruby, Ruby on Rails
 - Rust, Bevy
@@ -120,11 +120,10 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 - NodeJS
 - Docker
 
-#### Portfolio
 [Mon portfolio programmation](https://github.com/Montblanc159)
 
 ---
-### Centres d'intérêts
+## Centres d'intérêts
 - Escalade sportive en intérieur et en extérieur, licencié au club de Guichen Escalade depuis 2 ans.
 - Pratique du trail, du yoga et de la natation chaque semaine depuis plus de 3 ans.
 - Pratique de la guitare depuis 18 ans.
@@ -137,7 +136,7 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 ---
 ## Contact
 
-contact@guillaume-zaugg.fr
+[contact@guillaume-zaugg.fr](mailto:contact@guillaume-zaugg.fr)
 
-+33 (0)7 82 64 20 33
+[+33 (0)7 82 64 20 33](tel:+33782642033)
 </footer>
