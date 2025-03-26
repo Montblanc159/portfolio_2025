@@ -1,5 +1,6 @@
 $main-font-color: white;
 $background-color: rgb(48, 48, 48);
+$highlight-color: rgb(243, 147, 37);
 
 // @font-face {
 //     font-family: ImportedItalic;
@@ -40,11 +41,37 @@ body {
 img {
     border-radius: 25px;
     width: 100%;
+    min-height: 250px;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 hr {
     border-radius: 5px;
-    border: solid 2px $main-font-color;
+    border: 0.1px $main-font-color;
+    border-style: solid;
+    height: 0;
+    overflow: visible;
+    margin: 50px 0;
+    // border: none;
+}
+
+hr::after {
+    content: "❦";
+    // content: "⁂";
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+    margin: -50px auto;
+    position: relative;
+    width: 120px;
+    background-color: $background-color;
+
+}
+
+h1,
+h2 {
+    color: $highlight-color;
 }
 
 h1 {
@@ -69,6 +96,16 @@ a {
     font-variation-settings: "wght" 300;
 }
 
+li {
+    // list-style-type: "◦";
+    list-style-type: "❥";
+    padding-inline-start: 1ch;
+
+    &::marker {
+        color: $highlight-color;
+    }
+}
+
 a {
     display: inline-block;
     background-color: $main-font-color;
@@ -84,5 +121,11 @@ a {
         background-color: $background-color;
         color: $main-font-color;
         box-shadow: 0px 0px 0px 1px $main-font-color inset;
+    }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 667px) {
+    body {
+        margin: 25px 5vw;
     }
 }

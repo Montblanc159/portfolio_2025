@@ -4,7 +4,7 @@ template = "index.html"
 
 <header>
 
-![Guillaume Zaugg](./logo.webp)
+<!-- ![Guillaume Zaugg](./logo.webp) -->
 
 # Guillaume Zaugg - Brassage, programmation, design et vidéo
 
@@ -14,7 +14,6 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 
 <main>
 
----
 ## Brasserie
 
 ![Beer banner](./banner-beer.webp)
@@ -133,7 +132,6 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 
 <footer>
 
----
 ## Contact
 
 [contact@guillaume-zaugg.fr](mailto:contact@guillaume-zaugg.fr)
