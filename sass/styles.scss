@@ -1,16 +1,25 @@
 $main-font-color: white;
 $background-color: rgb(48, 48, 48);
 $highlight-color: rgb(243, 147, 37);
+$highlight-dark-color: rgb(243, 239, 31);
+$default-gradient: linear-gradient($highlight-color, $highlight-dark-color);
 
-// @font-face {
-//     font-family: ImportedItalic;
-//     src: url(./Cabin-Italic.ttf);
-// }
+@mixin text-gradient {
+    display: inline;
+    background-image: $default-gradient;
+    color: transparent;
+    background-clip: text;
+}
 
 @font-face {
     font-family: Imported;
     src: url(./Cabin.ttf);
 }
+
+// @font-face {
+//     font-family: ImportedItalic;
+//     src: url(./Cabin-Italic.ttf);
+// }
 
 @keyframes fadeIn {
     from {
@@ -35,7 +44,11 @@ $highlight-color: rgb(243, 147, 37);
 }
 
 body {
-    margin: 25px 25vw;
+    margin: 0;
+    padding: 25px 25vw;
+    border: 7px solid;
+    border-image-slice: 1;
+    border-image-source: $default-gradient;
 }
 
 img {
@@ -71,7 +84,7 @@ hr::after {
 
 h1,
 h2 {
-    color: $highlight-color;
+    @include text-gradient();
 }
 
 h1 {
@@ -126,6 +139,6 @@ a {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 667px) {
     body {
-        margin: 25px 5vw;
+        padding: 25px 5vw;
     }
 }
