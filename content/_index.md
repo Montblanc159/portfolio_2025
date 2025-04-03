@@ -2,9 +2,11 @@
 template = "index.html"
 +++
 
-<header>
+<img src="/logo-hd.webp" id="logo" alt="Guillaume Zaugg">
 
-<!-- ![Guillaume Zaugg](./logo.webp) -->
+<header>
+<!-- ![Guillaume Zaugg](./logo-hd.webp) -->
+
 
 # Guillaume Zaugg - Brassage, programmation, design et vidéo
 
