@@ -21,7 +21,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Beer banner](./banner-beer.webp)
 
 ### Compétences
-- 2025 : Formation à l'IFBM "Préparation au titre de basseur niveau 3" en vue du passage du CAP maître brasseur en décembre
+- 2025 : Formation à l'IFBM "Préparation au titre de brasseur niveau 3" en vue du passage du CAP maître brasseur en décembre
 
 - 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
 
