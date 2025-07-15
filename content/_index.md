@@ -21,9 +21,9 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Beer banner](./banner-beer.webp)
 
 ### Compétences
-- 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
+- 2025 : Formation à l'IFBM "Préparation au titre de basseur niveau 3" en vue du passage du CAP maître brasseur en décembre
 
-- Formation IFBM à venir
+- 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
 
 ### Expériences
 Plus de 25 brassins avec une cuve automatique de 30L.
