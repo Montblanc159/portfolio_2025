@@ -35,11 +35,14 @@ $default-gradient: linear-gradient($highlight-color, $highlight-dark-color);
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    font-family: Imported, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:
+        Imported, "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
     color: $main-font-color;
     will-change: opacity;
     animation: 0.5s linear fadeIn;
-    font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+    font-variant-ligatures: common-ligatures discretionary-ligatures
+        historical-ligatures contextual;
 }
 
 body {
@@ -79,7 +82,6 @@ hr::after {
     position: relative;
     width: 120px;
     background-color: $background-color;
-
 }
 
 h1,
@@ -117,6 +119,20 @@ li {
     &::marker {
         color: $highlight-dark-color;
     }
+
+    a {
+        display: inline;
+        padding: 0;
+        text-decoration: underline;
+        background-color: transparent;
+        color: $highlight-dark-color;
+        border-radius: none;
+        margin: 0;
+
+        &:hover {
+            box-shadow: none;
+        }
+    }
 }
 
 a {
@@ -128,7 +144,7 @@ a {
     font-weight: bold;
     margin: 0 0 5px;
     border-radius: 25px;
-    transition: all 0.12s cubic-bezier(0.215, 0.610, 0.355, 1);
+    transition: all 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
 
     &:hover {
         background-color: $background-color;

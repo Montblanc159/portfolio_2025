@@ -21,7 +21,11 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Beer banner](./banner-beer.webp)
 
 ### Compétences
-- 2025 : Formation à l'IFBM "Préparation au titre de brasseur niveau 3" en vue du passage du CAP maître brasseur en décembre
+- 2026 février : Stage d'un mois à [la brasserie Origines](https://origines-rennes.fr/le-bar-origines). Production sur salle à brasser manuelle, lavage de fût avec laveuse automatique, suivi de fermentation de l'ensemencement au conditionnement, cycles de nettoyage dee fermenteurs, fabrication de softs, encannage, enfûtage, conception de recette
+
+- 2025 octobre : Stage de deux semaines à [la brasserie Fusion](https://www.instagram.com/fusionbrasserie_/). Production sur salle à brasser semi-auto, nettoyage de fût avec laveuse automatique, cycles de nettoyage sur fermenteur, utilisation d'un CIP, enfûtage, suivi de fin de fermentation, encannage, service au bar
+
+- 2025 juin : Formation à l'IFBM "Préparation au titre de brasseur niveau 3" en vue du passage du CAP maître brasseur en mars
 
 - 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
 
@@ -39,15 +43,16 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 - 2016 : Licence de designer graphique à Lisaa
 
 ### Expériences
+- 2018- ... : Freelance
+
+> Conceptions de logos, chartes graphiques et site web pour des entreprises locales
+> Créations autour de la technique de la linogravure
+
 - 2016-2018 : Médiafaune
 
 > Conception de contenu de communications pour les clients (films, publicités, logos, animations) en anglais et en français.
 > Contact direct avec les clients à l'international (anglais et français).
 
-- 2018- ... : Freelance
-
-> Conceptions de logos, chartes graphiques et site web pour des entreprises locales
-> Créations autour de la technique de la linogravure
 
 ### Boite à outils
 
@@ -69,6 +74,10 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 - 2018 : Brevet théorique de pilote ULM - pilotage de drône
 
 ### Expériences
+- 2018- ... : Freelance
+
+> Tournage et montage de films pour des entreprises locales
+
 - 2016-2018 : Médiafaune
 
 > Contact direct avec les clients à l'international (anglais et français).
@@ -77,10 +86,6 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 > Montage.
 > Retransmission live et 360° d'évènements.
 > Conception de jeux vidéos en réalité virtuelle.
-
-- 2018- ... : Freelance
-
-> Tournage et montage de films pour des entreprises locales
 
 ### Boite à outils
 
@@ -126,7 +131,7 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 
 ---
 ## Centres d'intérêts
-- Escalade sportive en intérieur et en extérieur, licencié dans un club depuis 2 ans.
+- Escalade sportive en intérieur et en extérieur, licencié dans un club depuis 3 ans, encadrement de cours enfants 11-15 ans.
 - Pratique hebdomadaire du trail, du yoga et de la natation depuis plus de 3 ans.
 - Pratique de la guitare depuis 18 ans.
 - Passionné de fermentations en tous genres : yaourt, levain, lacto-fermentations, etc.
@@ -137,7 +142,7 @@ Plus de 25 brassins avec une cuve automatique de 30L.
 
 ## Contact
 
-[contact@guillaume-zaugg.fr](mailto:contact@guillaume-zaugg.fr)
+[guillaume.zaugg@gmail.com](mailto:guillaume.zaugg@gmail.com)
 
 [+33 (0)7 82 64 20 33](tel:+33782642033)
 </footer>
