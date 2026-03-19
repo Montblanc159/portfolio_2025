@@ -122,7 +122,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 - Ruby, Ruby on Rails
 - Rust, Bevy
 - PostgreSQL, SQL
-- NodeJS
+- NodeJS, Typescript
 - Docker
 
 [Mon portfolio programmation](https://github.com/Montblanc159)
