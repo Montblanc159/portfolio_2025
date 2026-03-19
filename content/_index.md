@@ -21,16 +21,15 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Beer banner](./banner-beer.webp)
 
 ### Compétences
-- 2026 février : Stage d'un mois à [la brasserie Origines](https://origines-rennes.fr/le-bar-origines). Production sur salle à brasser manuelle, lavage de fût avec laveuse automatique, suivi de fermentation de l'ensemencement au conditionnement, cycles de nettoyage dee fermenteurs, fabrication de softs, encannage, enfûtage, conception de recette
+
+- 2025 juin : Formation à l'IFBM "Préparation au titre de brasseur niveau 3" en vue du passage du CAP en mars
+
+### Expériences
+- 2026 février : Stage d'un mois à [la brasserie Origines](https://origines-rennes.fr/le-bar-origines). Production sur salle à brasser manuelle, lavage de fût avec laveuse automatique, suivi de fermentation de l'ensemencement au conditionnement, cycles de nettoyage des fermenteurs, fabrication de softs, encannage, enfûtage, conception de recette
 
 - 2025 octobre : Stage de deux semaines à [la brasserie Fusion](https://www.instagram.com/fusionbrasserie_/). Production sur salle à brasser semi-auto, nettoyage de fût avec laveuse automatique, cycles de nettoyage sur fermenteur, utilisation d'un CIP, enfûtage, suivi de fin de fermentation, encannage, service au bar
 
-- 2025 juin : Formation à l'IFBM "Préparation au titre de brasseur niveau 3" en vue du passage du CAP maître brasseur en mars
-
-- 2022 : Stage de brassage dans les locaux d'Aerofab avec la Hulotte
-
-### Expériences
-Plus de 25 brassins avec une cuve automatique de 30L.
+- Depuis 2019 : Plus de 25 brassins en amateur avec une cuve automatique de 30L.
 
 [Mes recettes](https://www.littlebock.fr/brasseurs/montblanc)
 
