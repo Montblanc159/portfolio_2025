@@ -41,7 +41,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Design banner](./banner-graphic.webp)
 
 ### Compétences
-- 2016 : Obtention de la licence de designer graphique à Lisaa
+- 2013-2016 : Obtention de la licence de designer graphique à Lisaa
 
 ### Expériences
 - 2018- ... : Freelance
