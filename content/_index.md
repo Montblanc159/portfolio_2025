@@ -22,7 +22,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 
 ### Compétences
 
-- 2026 avril : Obtention du CAP Titre brasseur niveau 3
+- 2026 avril : Obtention du titre brasseur niveau 3 (CAP)
 
 - 2025 juin : Formation à l'IFBM "Préparation au titre de brasseur niveau 3"
 
