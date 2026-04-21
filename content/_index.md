@@ -22,7 +22,9 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 
 ### Compétences
 
-- 2025 juin : Formation à l'IFBM "Préparation au titre de brasseur niveau 3" en vue du passage du CAP en mars
+- 2026 avril : Obtention du CAP Titre brasseur niveau 3
+
+- 2025 juin : Formation à l'IFBM "Préparation au titre de brasseur niveau 3"
 
 ### Expériences
 - 2026 février : Stage d'un mois à [la brasserie Origines](https://origines-rennes.fr/le-bar-origines). Production sur salle à brasser manuelle, lavage de fût avec laveuse automatique, suivi de fermentation de l'ensemencement au conditionnement, cycles de nettoyage des fermenteurs, fabrication de softs, encannage, enfûtage, conception de recette
@@ -39,7 +41,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Design banner](./banner-graphic.webp)
 
 ### Compétences
-- 2016 : Licence de designer graphique à Lisaa
+- 2016 : Obtention de la licence de designer graphique à Lisaa
 
 ### Expériences
 - 2018- ... : Freelance
@@ -70,7 +72,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 ![Film banner](./banner-film.webp)
 
 ### Compétences
-- 2018 : Brevet théorique de pilote ULM - pilotage de drône
+- 2018 : Obtention du brevet théorique de pilote ULM - pilotage de drône
 
 ### Expériences
 - 2018- ... : Freelance
