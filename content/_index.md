@@ -132,7 +132,7 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 
 ---
 ## Centres d'intérêts
-- Escalade sportive en intérieur et en extérieur, licencié dans un club depuis 3 ans, encadrement de cours enfants 11-15 ans.
+- Escalade sportive en intérieur et en extérieur, licencié dans un club depuis 3 ans, encadrement de cours enfants 10-13 ans.
 - Pratique hebdomadaire du trail, du yoga et de la natation depuis plus de 3 ans.
 - Pratique de la guitare depuis 18 ans.
 - Passionné de fermentations en tous genres : yaourt, levain, lacto-fermentations, etc.
