@@ -36,6 +36,18 @@ Création de sites web, de contenus vidéos et de contenus graphiques. Futur bra
 [Mes recettes](https://www.littlebock.fr/brasseurs/montblanc)
 
 ---
+## Escalade
+
+![Climbing banner](./banner-climbing.webp)
+
+### Compétences
+- Juin 2026 : Inscrit à la Formation ouvreur de club escalade (FFME)
+- 2025-2026 : Passage brevet initiateur SAE (FFME)
+
+### Expériences
+- Septembre 2025 - ... : Initiateur SAE au sein de guichen escalade. Encadrement de cours 10-13 ans, majoritairement en difficulté, [création d'ateliers](https://montblanc159.github.io/seance-guichen-escalade/) et gestion de la sécurité
+
+---
 ## Design
 
 ![Design banner](./banner-graphic.webp)
